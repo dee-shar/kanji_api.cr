@@ -1,4 +1,3 @@
-require "json"
 require "http/client"
 
 class KanjiApi
